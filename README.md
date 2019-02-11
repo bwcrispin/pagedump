@@ -14,3 +14,7 @@ https://loremipsum.io/ultimate-list-of-lorem-ipsum-generators/
 https://www.cssfontstack.com/
 https://fonts.google.com/
 https://frontendmasters.com/books/front-end-handbook/2018/
+https://javascript.info
+https://github.com/tokdaniel/js-test
+https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c
+https://javascript30.com
