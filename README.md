@@ -1,8 +1,8 @@
 # pagedump
 Just a list of webpages I've had that have helped for things related to web stuff
 
-https://developers.google.com/web/ . 
-https://pixlr.com/# . 
+https://developers.google.com/web/ . <br />
+https://pixlr.com/# . <br />
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML . 
 https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references . 
 http://colours.neilorangepeel.com/ . 
